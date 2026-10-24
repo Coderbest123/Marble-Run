@@ -26,11 +26,17 @@ Here is the image of the final curving track:
 
 
 Here is the image of the final bowl at the end:
-<img width="952" height="595" alt="Screenshot 2026-10-18 114316" src="https://github.com/user-attachments/assets/e13d92f2-fa1b-49d2-82e1-4da532189b2a" />
-
+<img width="952" height="595" alt="Screenshot 2026-10-18 114316" src="https://github.com/user-attachments/assets/e13d92f2-fa1b-49d2-82e1-4da532189b2a" />			
+		
 
 Here is the image of the entire assembly:
 <img width="845" height="691" alt="Screenshot 2026-10-18 114331" src="https://github.com/user-attachments/assets/d8af2ebb-cfb9-4957-a690-3159a116e389" />
 
 
-Here is the link to my BOM: https://docs.google.com/spreadsheets/d/1rTzDDtL7IlhR76jvNwfB5tu8MS1XLdU0NkHNOHwxwgY/edit?usp=sharing
+| Part Name | Cost | Quantity | Vendor | Cart Image |
+| :--- | :--- | :--- | :--- | :--- |
+| 1kg PETG Filament | \$18.98 | 1 | esun | ![eSUN Cart](<img width="402" height="542" alt="Screenshot 2026-10-18 133741" src="https://github.com/user-attachments/assets/e02e29ac-e4bd-4287-b16a-ea31743c7e67" />) |
+| Marble | \$9.49 | | Azure Aster | ![Azure Aster Cart](<img width="1865" height="611" alt="Screenshot 2026-10-23 200134" src="https://github.com/user-attachments/assets/b17486b5-afa8-4c2b-8025-70c7667c9d5c" />) |
+| **Total** | **\$28.47** | | | |
+
+
