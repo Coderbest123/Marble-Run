@@ -3,7 +3,15 @@ This is my CAD project for half life and it is a marble run track.
 
 I made this for half life and to get better with CAD and have some fun with marbles.
 Its a full marble course including curving tracks, helix track, a drop then drop track, a base and a final finish bowl.
-Each part is supported by the last bringing it all togther.
+Each part is supported by the supports from the file which some i will keep and some remove to make it look nice
+The marble is 12mm in diameter
+Print Settings:
+Auto Organic Tree supoorts
+Grid support pattern
+15% support Infill
+20% regular Infill
+All other settings default
+
 
 Here is the Image of the Base:
 <img width="782" height="637" alt="Screenshot 2026-10-18 114115" src="https://github.com/user-attachments/assets/9e897f9d-ea57-43f5-ae7c-d3ab4f3e1efd" />
