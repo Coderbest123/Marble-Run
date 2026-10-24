@@ -35,8 +35,8 @@ Here is the image of the entire assembly:
 
 | Part Name | Cost | Quantity | Vendor | Cart Image |
 | :--- | :--- | :--- | :--- | :--- |
-| 1kg PETG Filament | \$18.98 | 1 | esun | ![eSUN Cart](<img width="402" height="542" alt="Screenshot 2026-10-18 133741" src="https://github.com/user-attachments/assets/e02e29ac-e4bd-4287-b16a-ea31743c7e67" />) |
-| Marble | \$9.49 | | Azure Aster | ![Azure Aster Cart](<img width="1865" height="611" alt="Screenshot 2026-10-23 200134" src="https://github.com/user-attachments/assets/b17486b5-afa8-4c2b-8025-70c7667c9d5c" />) |
+| 1kg PETG Filament | \$18.98 | 1 | esun | <img width="402" height="542" alt="Screenshot 2026-10-18 133741" src="https://github.com/user-attachments/assets/e02e29ac-e4bd-4287-b16a-ea31743c7e67" /> |
+| Marble | \$9.49 | 1 | Azure Aster | <img width="1865" height="611" alt="Screenshot 2026-10-23 200134" src="https://github.com/user-attachments/assets/b17486b5-afa8-4c2b-8025-70c7667c9d5c" /> |
 | **Total** | **\$28.47** | | | |
 
 
